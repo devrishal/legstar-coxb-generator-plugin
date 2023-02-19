@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.devrishal.legstarcoxbgeneratorplugin
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls

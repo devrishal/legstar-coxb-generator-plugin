@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.devrishal.legstarcoxbgeneratorplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.devrishal.legstarcoxbgeneratorplugin.MyBundle
 
 class MyApplicationService {
 
